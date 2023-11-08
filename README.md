@@ -16,3 +16,6 @@ Rose quartz: #B2A3B5
 
 ## Github Pages Website Link
 https://maddiemaleh.github.io/template/#home
+
+## Custom Change
+I switched the colors of the first and third column in the projets section, and changed the section name to experience.
