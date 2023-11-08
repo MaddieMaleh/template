@@ -13,3 +13,6 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+## Github Pages Website Link
+https://maddiemaleh.github.io/template/#home
